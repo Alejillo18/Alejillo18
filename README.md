@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 🔭 Estudiante Universitario<br>🌱 Actualmente estudiando la Carrera de:<br>                             "Full-Stack"<br>
 
 
